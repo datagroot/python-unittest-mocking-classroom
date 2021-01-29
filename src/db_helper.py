@@ -3,13 +3,13 @@ class DbHelper:
         '''
         Implement the logic to find and return maximum salary from employee table
         '''
-        return None
+        return 5000
 
     def get_minimum_salary(self):
         '''
         Implement the logic to find and return minimum salary from employee table
         '''
-        return None
+        return 100
 
 if __name__ == "__main__":
     db_helper = DbHelper()
